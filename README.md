@@ -1,3 +1,5 @@
 # I-want-to-be-developer-someday
 
-안녕하세요
+계룡건설 I-want-to-be-developer-someday
+
+계룡건설 빅데이터 기반 Green Tech SW 개발자 과정
